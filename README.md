@@ -1,1 +1,2 @@
 # graphtest
+Init
